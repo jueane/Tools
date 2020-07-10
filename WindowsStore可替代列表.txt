@@ -8,3 +8,11 @@ skype
 autohotkey
 百度网盘
 msToDo
+ScreenToGif
+TreeSize
+WinDynamicDesktop
+Termius
+Audacity
+AIDA64
+旺信
+foobar2000
